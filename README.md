@@ -1,4 +1,5 @@
 # Spectre Numbers
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 A simple C++ command-line tool to validate international phone numbers and identify their country of origin based on E.164 standard calling codes.
 
